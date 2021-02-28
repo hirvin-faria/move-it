@@ -20,7 +20,7 @@ Aplicação Movi.It para melhorar a produtividade do desenvolvedor, criada duran
 
 Fork o projeto e após clone o repósitório
 
-`git clone `
+`git clone https://github.com/hirvin-faria/move-it.git`
 
 Acesse a pasta
 
