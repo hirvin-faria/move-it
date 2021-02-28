@@ -1,34 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+<h1 align="center"> Move.It </h1>
+</div>
 
-## Getting Started
 
-First, run the development server:
+## 📗 Descrição
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<p align="justify"> 
+Aplicação Movi.It para melhorar a produtividade do desenvolvedor, criada durante a Next Level Week 4 da Rocketseat 
+<p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## 💻 Tecnologias
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- [NextJS](https://nextjs.org/)
+- [React](https://pt-br.reactjs.org/)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+## 🚀 Executando a aplicação
 
-To learn more about Next.js, take a look at the following resources:
+Fork o projeto e após clone o repósitório
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+`git clone `
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Acesse a pasta
 
-## Deploy on Vercel
+`cd move-it`
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Instale as dependencias
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+`npm install`
+
+Execute o servidor de sesenvolvimento
+
+`npm run dev
+
+
+## :octocat: Desenvolvedores por
+
+| [<img src="https://avatars0.githubusercontent.com/u/42902087?s=400&u=2627dc250e09bb350c2dc70e974dd102090c3e2b&v=4" width=115 > <br> <sub> Hirvin Faria </sub>](https://github.com/hirvin-faria) |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
