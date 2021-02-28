@@ -32,7 +32,7 @@ Instale as dependencias
 
 Execute o servidor de sesenvolvimento
 
-`npm run dev
+`npm run dev`
 
 
 ## :octocat: Desenvolvedores por
